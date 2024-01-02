@@ -1,3 +1,2 @@
-display time/date 
 echo $(date)
-
+echo "Welcome Achraf"
